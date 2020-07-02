@@ -22,7 +22,7 @@ const QuoteAndAuthor = (props) => {
                 id="newquote"
                 onClick={props.handleClick}
             >
-                Next quote
+                Next Quote
         </button>
         </div>
     );
