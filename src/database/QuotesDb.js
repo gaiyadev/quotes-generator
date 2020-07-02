@@ -334,6 +334,158 @@ const quotes = [
     {
         "quote": "Life is movement-we breathe, we eat, we walk, we move!",
         "author": "John Pierrakos"
-    }
+    },
+    {
+        "quote": "It's not who you are that holds you back, it's who you think you're not.",
+        "author": null
+    },
+    {
+        "quote": "All children are artists. The problem is how to remain an artist once he grows up.",
+        "author": "Pablo Picasso"
+    },
+    {
+        "quote": "Either I will find a way, or I will make one.",
+        "author": "Philip Sidney"
+    },
+    {
+        "quote": "He who knows that enough is enough will always have enough.",
+        "author": "Lao Tzu"
+    },
+    {
+        "quote": "The only way to have a friend is to be one.",
+        "author": "Ralph Emerson"
+    },
+    {
+        "quote": "If we had no winter, the spring would not be so pleasant; if we did not sometimes taste of adversity, prosperity would not be so welcome.",
+        "author": "Anne Bradstreet"
+    },
+    {
+        "quote": "Joy is what happens to us when we allow ourselves to recognize how good things really are.",
+        "author": "Marianne Williamson"
+    },
+    {
+        "quote": "Your vision will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes.",
+        "author": "Carl Jung"
+    },
+    {
+        "quote": "There is never enough time to do everything, but there is always enough time to do the most important thing.",
+        "author": "Brian Tracy"
+    },
+    {
+        "quote": "You really can change the world if you care enough.",
+        "author": "Marian Edelman"
+    },
+    {
+        "quote": "What you are is what you have been. What you will be is what you do now.",
+        "author": "Buddha"
+    },
+    {
+        "quote": "Our lives are the only meaningful expression of what we believe and in Whom we believe. And the only real wealth, for any of us, lies in our faith.",
+        "author": "Gordon Hinckley"
+    },
+    {
+        "quote": "There surely is in human nature an inherent propensity to extract all the good out of all the evil.",
+        "author": "Benjamin Haydon"
+    },
+    {
+        "quote": "Music in the soul can be heard by the universe.",
+        "author": "Lao Tzu"
+    },
+    {
+        "quote": "What we see depends mainly on what we look for.",
+        "author": "John Lubbock"
+    },
+    {
+        "quote": "To hell with circumstances; I create opportunities.",
+        "author": "Bruce Lee"
+    },
+    {
+        "quote": "The truest greatness lies in being kind, the truest wisdom in a happy mind.",
+        "author": "Ella Wilcox"
+    },
+    {
+        "quote": "An ounce of emotion is equal to a ton of facts.",
+        "author": "John Junor"
+    },
+    {
+        "quote": "We need to find the courage to say NO to the things and people that are not serving us if we want to rediscover ourselves and live our lives with authenticity.",
+        "author": "Barbara De Angelis"
+    },
+    {
+        "quote": "Great is the art of beginning, but greater is the art of ending.",
+        "author": "Lazurus Long"
+    },
+    {
+        "quote": "Simply put, you believer that things or people make you unhappy, but this is not accurate. You make yourself unhappy.",
+        "author": "Wayne Dyer"
+    },
+    {
+        "quote": "Nothing will work unless you do.",
+        "author": "Maya Angelou"
+    },
+    {
+        "quote": "Our ability to achieve happiness and success depends on the strength of our wings.",
+        "author": "Catherine Pulsifer"
+    },
+    {
+        "quote": "To go against the dominant thinking of your friends, of most of the people you see every day, is perhaps the most difficult act of heroism you can perform.",
+        "author": "Theodore H. White"
+    },
+    {
+        "quote": "Gratitude makes sense of our past, brings peace for today, and creates a vision for tomorrow.",
+        "author": "Melody Beattie"
+    },
+    {
+        "quote": "Into each life rain must fall but rain can be the giver of life and it is all in your attitude that makes rain produce sunshine.",
+        "author": "Byron Pulsifer"
+    },
+    {
+        "quote": "We are all inclined to judge ourselves by our ideals; others, by their acts.",
+        "author": "Harold Nicolson"
+    },
+    {
+        "quote": "Nothing is a waste of time if you use the experience wisely.",
+        "author": "Rodin"
+    },
+    {
+        "quote": "If one way be better than another, that you may be sure is natures way.",
+        "author": "Aristotle"
+    },
+    {
+        "quote": "Here is one quality that one must possess to win, and that is definiteness of purpose, the knowledge of what one wants, and a burning desire to possess it.",
+        "author": "Napoleon Hill"
+    },
+    {
+        "quote": "It is not in the stars to hold our destiny but in ourselves.",
+        "author": "William Shakespeare"
+    },
+    {
+        "quote": "Using the power of decision gives you the capacity to get past any excuse to change any and every part of your life in an instant.",
+        "author": "Tony Robbins"
+    },
+    {
+        "quote": "I will prepare and some day my chance will come.",
+        "author": "Abraham Lincoln"
+    },
+    {
+        "quote": "Sometimes the cards we are dealt are not always fair. However you must keep smiling and moving on.",
+        "author": "Tom Jackson"
+    },
+    {
+        "quote": "Strong people make as many mistakes as weak people. Difference is that strong people admit their mistakes, laugh at them, learn from them. That is how they become strong.",
+        "author": "Richard Needham"
+    },
+    {
+        "quote": "To know your purpose is to live a life of direction, and in that direction is found peace and tranquillity.",
+        "author": "Byron Pulsifer"
+    },
+    {
+        "quote": "You can stand tall without standing on someone. You can be a victor without having victims.",
+        "author": "Harriet Woods"
+    },
+    {
+        "quote": "Bad times have a scientific value. These are occasions a good learner would not miss.",
+        "author": "Ralph Emerson"
+    },
 ]
 export default quotes

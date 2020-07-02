@@ -8,27 +8,29 @@ class App extends React.Component {
     super(props);
     this.state = {
       quoteData: {
-        quote: Quotes[0].quote,
-        author: Quotes[0].author,
+        quote: Quotes[20].quote,
+        author: Quotes[20].author,
       }
     };
   }
 
   randomQuote = () => {
     const randomNumber = Math.floor(Math.random() * Quotes.length);
-    // console.log(Quotes.length);
     return Quotes[randomNumber];
   }
 
   shuffleQuotes = (array) => {
-    return array.sort(() => Math.random() - 1);
+    return array.sort(() => Math.random() - 0.5);
   }
 
   handleClick = () => {
     const generateRandomQuote = this.randomQuote();
     this.setState({
-      quote: generateRandomQuote.quote,
-      author: generateRandomQuote.author
+      quoteData: {
+        quote: generateRandomQuote.quote,
+        author: generateRandomQuote.author
+      }
+
     });
     this.shuffleQuotes(Quotes)
   }
