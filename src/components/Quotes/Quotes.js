@@ -4,6 +4,7 @@ const QuoteAndAuthor = (props) => {
     const randomColor = props.displayColor();
     const html = document.documentElement;
     html.style.backgroundColor = randomColor;
+
     return (
         <div style={{ backgroundColor: "white" }} className="quotebox">
             <div
@@ -21,7 +22,7 @@ const QuoteAndAuthor = (props) => {
                 id="newquote"
                 onClick={props.handleClick}
             >
-                New quote
+                Next quote
         </button>
         </div>
     );

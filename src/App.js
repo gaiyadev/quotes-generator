@@ -4,14 +4,13 @@ import QuoteAndAuthor from './components/Quotes/Quotes';
 import Quotes from './database/QuotesDb';
 
 class App extends React.Component {
-  constructor() {
-    super();
+  constructor(props) {
+    super(props);
     this.state = {
       quoteData: {
         quote: Quotes[0].quote,
         author: Quotes[0].author,
       }
-
     };
   }
 
